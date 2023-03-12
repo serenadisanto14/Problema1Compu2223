@@ -6,10 +6,9 @@
 // The outputs are....
 // remember to use a comment for every line of code
 // remember to give meaningful names to every variable
-// 
 /////////////////////////////////////////
 
 int main()
 {
-    printf("%lf",2000.);
+    printf("%lf",2000.); //adding a comment about this useless line
 }
