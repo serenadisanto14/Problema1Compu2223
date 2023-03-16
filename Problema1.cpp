@@ -6,10 +6,6 @@
 // The outputs are....
 // remember to use a comment for every line of code
 // remember to give meaningful names to every variable
-// adding a new line here
-//adding another line here
-// adding a third line
-// adding a fourth line
 /////////////////////////////////////////
 
 int main()
